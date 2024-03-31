@@ -1,7 +1,7 @@
 ![logo](https://github.com/sher-taj/Sher-Taj/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Sher Taj</h1>
 <h3 align="center">A passionate Data Scientist From Pakistan</h3>
-<img align="right" alt="Coding" width="800"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="Coding" width="1000"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sher-taj&label=Profile%20views&color=0e75b6&style=flat" alt="sher-taj" /> </p>
 
