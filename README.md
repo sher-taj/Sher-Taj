@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/sheri khan" target="blank"><img src="https://img.shields.io/twitter/follow/sheri khan?logo=twitter&style=for-the-badge" alt="sheri khan" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science Machine Learning Deep Learning and Computer Vision**
+- 🌱 I’m currently Working on**Data Science Machine Learning Deep Learning and Computer Vision**
 
 - 📝 I regularly write articles on [https://www.linkedin.cn/incareer/in/sher-taj-60b829172](https://www.linkedin.cn/incareer/in/sher-taj-60b829172)
 
